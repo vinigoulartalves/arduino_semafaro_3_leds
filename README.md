@@ -6,12 +6,12 @@ Neste experimento fiz com que o arduino manipulasse 3 leds em determinada ordem.
 
 ## Lista de componentes:
 
-1 – Arduíno UNO R3
-1 – Um cabo de conexão USB
-1 – Placa de prototipação (Protoboard)
-3 – LED
-3 – Resistor de 220 Ω ohms
-5 – Jumpers (macho-macho)
+- Arduíno UNO R3
+- Um cabo de conexão USB
+- Placa de prototipação (Protoboard)
+- LED
+- Resistor de 220 Ω ohms
+- Jumpers (macho-macho)
 
 ## Esquema do projeto
 
