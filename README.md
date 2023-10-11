@@ -15,7 +15,7 @@ Neste experimento fiz com que o arduino manipulasse 3 leds em determinada ordem.
 
 ## Esquema do projeto
 
-![Esquema do projeto](esquema_projeto.PNG)
+![Esquema do projeto](esquema_projeto.png)
 
 ## Projeto no Tinkercad
 
